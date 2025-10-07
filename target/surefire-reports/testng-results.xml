@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-07T09:50:52 IST" name="Surefire suite" finished-at="2025-10-07T09:50:52 IST" duration-ms="73">
+    <groups>
+    </groups>
+    <test started-at="2025-10-07T09:50:52 IST" name="Surefire test" finished-at="2025-10-07T09:50:52 IST" duration-ms="73">
+      <class name="com.cognizant.testscripts.Test1">
+        <test-method signature="testgaytri()[pri:0, instance:com.cognizant.testscripts.Test1@3745e5c6]" started-at="2025-10-07T09:50:52 IST" name="testgaytri" finished-at="2025-10-07T09:50:52 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgaytri -->
+      </class> <!-- com.cognizant.testscripts.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
